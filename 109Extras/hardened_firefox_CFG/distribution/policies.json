@@ -1,0 +1,15 @@
+{
+  "policies": {
+    "DisableFirefoxAccounts": true,
+    "DisableFormHistory": true,
+    "DisableAppUpdate": true,
+    "NetworkPrediction": false,
+    "CaptivePortal": false,
+    "DNSOverHTTPS": {
+      "Enabled": false
+    },
+    "DisableFirefoxStudies": true,
+    "DisableTelemetry": true,
+    "DisablePocket": true
+  }
+}
