@@ -10,4 +10,4 @@ Use 7-ZIP to extract and then compress the files.
 ## Setting up
 Copy the folders in this repository in the correct omni.ja. It is that simple.
 
-**This most likely will become obsolete when NWinXP releases their [Extras](https://github.com/NWinXP/Aerofox/blob/main/extras.md) page. I suggest using that when it comes out.**
+~~**This most likely will become obsolete when NWinXP releases their [Extras](https://github.com/NWinXP/Aerofox/blob/main/extras.md) page. I suggest using that when it comes out.**~~ This didn't age well....
