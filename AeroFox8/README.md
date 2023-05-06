@@ -23,5 +23,8 @@ Read [installation.md](https://github.com/ImSwordQueen/AerofoxSomewhatExtras/blo
 - **Can I modify it?**  
 You are free to do whatever you want with this theme, it's freely available after all!
 
+## Credits
+[Credits can be found here](https://github.com/ImSwordQueen/AerofoxSomewhatExtras/blob/main/AeroFox8/credits.md "credits.md")
+
 ###### Internet Explorer is a trademark of Microsoft Corporation. All assets from Internet Explorer used in this project belong to Microsoft Corporation.    
 ###### Firefox and the Firefox logo are trademarks of the Mozilla Foundation.
