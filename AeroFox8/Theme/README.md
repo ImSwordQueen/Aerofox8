@@ -2,6 +2,4 @@
 
 ## Warning Low Quality Code
 
-This is a slighly customized version of AeroFox that tries to replicate IE8.
-
-![](https://i.imgur.com/OSny3bC.png)
+![](https://github.com/ImSwordQueen/AerofoxSomewhatExtras/blob/main/AeroFox8/Images/ffscreenshot.png)
