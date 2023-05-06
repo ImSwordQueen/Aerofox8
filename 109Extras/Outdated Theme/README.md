@@ -1,4 +1,4 @@
-# Modified AeroFox Theme
+# Modified AeroFox Theme (EoL)
 
 ## Warning Low Quality Code
 
