@@ -1,13 +1,31 @@
 # Installation Instructions
 ## ⚠️WARNING⚠️
 This mod requires editing firefox omni.ja files which gets replaced with each update. You have to disable updates to keep the modifications.
-This could break at any time in new versions above 109.0. I will take no responsability if it breaks above version 109. 
+This could break at any time in new versions above 109.0. **I'm not taking any responsibility if you break your firefox installation with this mod**
 
-## Extracting Omni.ja
-Firefox uses not only 1 omni.ja but 2. And both aren't interchangable so make sure you are modifying the right one. one is found in the root folder and the other in browser.
-Use 7-ZIP to extract and then compress the files.
+**This guide is in work in progress and might contain some inaccuracies**
 
-## Setting up
-Copy the folders in this repository in the correct omni.ja. It is that simple.
+## Step 1 - Customizing Firefox
 
-~~**This most likely will become obsolete when NWinXP releases their [Extras](https://github.com/NWinXP/Aerofox/blob/main/extras.md) page. I suggest using that when it comes out.**~~ This didn't age well....
+1. Copy defaults, distribution and firefox.cfg that are in "ffroot" into the folder where you installed firefox.
+2. Copy "chrome" in "theme" into your firefox profile.
+3. Open Firefox and install the [Tip Tab](https://addons.mozilla.org/it/firefox/addon/tip-tab/) extension.
+4. Go to customization settings and follow the image below:
+ <img src="https://github.com/ImSwordQueen/AerofoxSomewhatExtras/blob/main/AeroFox8/Images/customize.png" width="100%"/>
+5. Set the Bookmarks Toolbar to "Always Show"
+
+## Step 2 - Modify the Firefox executable
+
+1. Install [Resource Hacker](http://angusj.com/resourcehacker/) if you haven't done that already.
+2. Open the Firefox executable with Resource Hacker.
+3. Import the firefox.exe.res into the executable.
+4. Save the file.
+
+## Step 3 - Editing the omni.ja files
+
+1. Install [7-Zip](https://www.7-zip.org/) if you haven't done that already.
+2. Extract the contents of omni.ja from the "Browser" folder in a folder.
+3. Copy your desired modifications that are in "ffroot/browser/omni.ja" into the folder you've extracted your omni.ja
+4. Compress all the files with 7-Zip with the settings in the image below: 
+ <img src="https://github.com/ImSwordQueen/AerofoxSomewhatExtras/blob/main/AeroFox8/Images/7zip.png" width="100%"/>
+5. Copy your modified omni.ja inside the "Browser" folder of your Firefox install.
