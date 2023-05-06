@@ -11,9 +11,7 @@ This could break at any time in new versions above 109.0. **I'm not taking any r
 2. Copy "chrome" in "theme" into your firefox profile.
 3. Open Firefox and install the [Tip Tab](https://addons.mozilla.org/it/firefox/addon/tip-tab/) extension.
 4. Go to customization settings and follow the image below:
-
  <img src="https://github.com/ImSwordQueen/AerofoxSomewhatExtras/blob/main/AeroFox8/Images/customize.png" width="100%"/>
-
 5. Set the Bookmarks Toolbar to "Always Show"
 
 ## Step 2 - Modify the Firefox executable
@@ -29,7 +27,5 @@ This could break at any time in new versions above 109.0. **I'm not taking any r
 2. Extract the contents of omni.ja from the "Browser" folder in a folder.
 3. Copy your desired modifications that are in "ffroot/browser/omni.ja" into the folder you've extracted your omni.ja
 4. Compress all the files with 7-Zip with the settings in the image below: 
-
  <img src="https://github.com/ImSwordQueen/AerofoxSomewhatExtras/blob/main/AeroFox8/Images/7zip.png" width="100%"/>
- 
- 5. Copy your modified omni.ja inside the "Browser" folder of your Firefox install.
+5. Copy your modified omni.ja inside the "Browser" folder of your Firefox install.
