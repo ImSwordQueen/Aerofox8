@@ -14,7 +14,7 @@ Made possible thanks to [NWinXP](https://github.com/NWinXP/Aerofox) and [travis]
 - Windows 8 x64 with Aero Glass DWM hack | Firefox 109
 - Windows 8.1 x64 with Aero Glass DWM hack | Firefox 109
 
- <img src="https://github.com/ImSwordQueen/AerofoxSomewhatExtras/blob/main/AeroFox8/Images/ffscreenshot.png" width="100%"/>
+ <img src="https://github.com/ImSwordQueen/Aerofox8/blob/main/Images/ffscreenshot.png" width="100%"/>
 
 ## FAQ
 - **How do I install it?**  
