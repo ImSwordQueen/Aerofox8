@@ -14,12 +14,12 @@ Made possible thanks to [NWinXP](https://github.com/NWinXP/Aerofox) and [travis]
 - Windows 8 x64 with Aero Glass DWM hack | Firefox 109
 - Windows 8.1 x64 with Aero Glass DWM hack | Firefox 109
 
- <img src="Github.com/ImSwordQueen/AerofoxSomewhatExtras/AeroFox8/Images/ffscreenshot.png" width="100%"/>
+ <img src="https://github.com/ImSwordQueen/AerofoxSomewhatExtras/blob/main/AeroFox8/Images/ffscreenshot.png" width="100%"/>
 
 ## FAQ
 - **How do I install it?**  
 Some of the settings are already set with the hardened firefox config.
-Read [installation.md](https://github.com/ImSwordQueen/Aerofox/blob/main/AeroFox8/installation.md "installation.md") for detailed installation instructions.
+Read [installation.md](https://github.com/ImSwordQueen/AerofoxSomewhatExtras/blob/main/AeroFox8/installation.md "installation.md") for detailed installation instructions.
 - **Can I modify it?**  
 You are free to do whatever you want with this theme, it's freely available after all!
 
