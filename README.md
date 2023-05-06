@@ -3,7 +3,7 @@
 </p>
 
 ---
-AerofoxSomewhatExtras is a subset of extras made by me (ImSwordKing) that modifies firefox to include some modifications extra modifications not included in the OG theme.
+AerofoxSomewhatExtras is a subset of extras made by me (ImSwordQueen) that modifies firefox to include some modifications extra modifications not included in the OG theme.
 
 Made in mind for 109.0. Somewhat works on 110.
 
