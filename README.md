@@ -5,7 +5,7 @@
 ---
 AerofoxSomewhatExtras is a subset of extras made by me (ImSwordQueen) that modifies firefox to include some modifications extra modifications not included in the OG theme.
 
-** This was the original purpose of this fork. This will be not maintained and is kept as an archive **
+**This was the original purpose of this fork. This will be not maintained and is kept as an archive**
 
 Made in mind for 109.0. Somewhat works on 110.
 
