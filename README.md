@@ -19,7 +19,7 @@ Made possible thanks to [NWinXP](https://github.com/NWinXP/Aerofox) and [travis]
 ## FAQ
 - **How do I install it?**  
 Some of the settings are already set with the hardened firefox config.
-Read [installation.md](https://github.com/ImSwordQueen/AerofoxSomewhatExtras/blob/main/AeroFox8/installation.md "installation.md") for detailed installation instructions.
+Read [installation.md](https://github.com/ImSwordQueen/Aerofox8/blob/main/installation.md "installation.md") for detailed installation instructions.
 - **Can I modify it?**  
 You are free to do whatever you want with this theme, it's freely available after all!
 
