@@ -195,7 +195,7 @@ toolbarpaletteitem[place="toolbar"][id^="wrapper-customizableui-special-spring"]
 	background-color: #C2DAFA !important;
 	margin-top: 5px !important;
 	transform: translateY(-2px) !important;
-	min-height: calc(var(--tab-min-height) - 1px) !important;
+	min-height: calc(var(--tab-min-height) - 2px) !important;
 	margin-inline: -1px !important;
 	padding: 0 !important;
 	max-width: 180px !important;
