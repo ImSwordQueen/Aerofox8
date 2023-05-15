@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NWinXP/Aerofox/blob/main/images/aerofox_project_logo-small.png" />
+  <img src="https://github.com/ImSwordQueen/Aerofox8/blob/Original-AeroFox/images/aerofox_project_logo-small.png" />
 </p>
 
 ---
