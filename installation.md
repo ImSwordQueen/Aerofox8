@@ -1,31 +1,22 @@
 # Installation Instructions
-## ⚠️WARNING⚠️
-This mod requires editing firefox omni.ja files which gets replaced with each update. You have to disable updates to keep the modifications.
-This could break at any time in new versions above 109.0. **I'm not taking any responsibility if you break your firefox installation with this mod**
+## Copying files
+In Firefox, go to about:profiles and look for the profile in use. Open the "Root Directory" folder. Copy the contents of /profile into this folder.  
+Next you can go to your Firefox installation directory (It should be C:/Program Files (x86)/Mozilla Firefox. Copy the contents of /ffroot into this directory, you may need administrator permissions.
 
-**This guide is in work in progress and might contain some inaccuracies**
+## Setting up
+After restarting, you're going to need to go to about:config and enable these flags:
+- toolkit.legacyUserProfileCustomizations.stylesheets - set to true
+- svg.context-properties.content.enabled - set to true
+- ui.prefersReducedMotion - set to 1, you may need to create a new "Number" value
+- widget.non-native-theme.enabled - set to false,  
+- extensions.unifiedExtensions.enabled - set to false, 109+ only,
 
-## Step 1 - Customizing Firefox
+then restart Firefox.
 
-1. Copy defaults, distribution and firefox.cfg that are in "ffroot" into the folder where you installed firefox.
-2. Copy "chrome" in "theme" into your firefox profile.
-3. Open Firefox and install the [Tip Tab](https://addons.mozilla.org/it/firefox/addon/tip-tab/) extension.
-4. Go to customization settings and follow the image below:
- <img src="https://github.com/ImSwordQueen/Aerofox8/blob/main/Images/customize.png" width="100%"/>
-5. Set the Bookmarks Toolbar to "Always Show"
+To get the tab view button and interface like IE, install [Tip Tab](https://addons.mozilla.org/en-US/firefox/addon/tip-tab/)
 
-## Step 2 - Modify the Firefox executable
+## UI Configuration
+After installation, right click on the tabs toolbar and press "Customize Toolbar". Here is a guide to help you:![guide](https://user-images.githubusercontent.com/65573067/214430433-2b04e496-a6db-4cad-80e3-62afe7eb4c5e.png)
+**Make sure to enable Title Bar and set the Bookmarks Toolbar to "Always Show."**  
 
-1. Install [Resource Hacker](http://angusj.com/resourcehacker/) if you haven't done that already.
-2. Open the Firefox executable with Resource Hacker.
-3. Import the firefox.exe.res into the executable.
-4. Save the file.
-
-## Step 3 - Editing the omni.ja files
-
-1. Install [7-Zip](https://www.7-zip.org/) if you haven't done that already.
-2. Extract the contents of omni.ja from the "Browser" folder in a folder.
-3. Copy your desired modifications that are in "ffroot/browser/omni.ja" into the folder you've extracted your omni.ja
-4. Compress all the files with 7-Zip with the settings in the image below: 
- <img src="https://github.com/ImSwordQueen/Aerofox8/blob/main/Images/7zip.png" width="100%"/>
-5. Copy your modified omni.ja inside the "Browser" folder of your Firefox install.
+**Want to configure the branding and other minor tweaks? Go to the [Extras](https://github.com/NWinXP/Aerofox/blob/main/extras.md) page to read more.**
