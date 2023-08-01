@@ -25,7 +25,7 @@ This could break at any time in new versions above 109.0. **I'm not taking any r
 
 1. Install [7-Zip](https://www.7-zip.org/) if you haven't done that already.
 2. Extract the contents of omni.ja from the "Browser" folder in a folder.
-3. Copy your desired modifications that are in "ffroot/browser/omni.ja" into the folder you've extracted your omni.ja
+3. Copy your desired modifications that are in "ffroot/browser/omni.ja" inside the omni.ja folder.
 4. Compress all the files with 7-Zip with the settings in the image below: 
- <img src="https://github.com/ImSwordQueen/Aerofox8/blob/main/Images/7zip.png" width="100%"/>
-5. Copy your modified omni.ja inside the "Browser" folder of your Firefox install.
+ <img src="https://github.com/ImSwordQueen/Aerofox8/blob/main/Images/7zip.png" width="50%" height="50%"/>
+5. Copy your newly created omni.ja inside the "Browser" folder of your Firefox install.
