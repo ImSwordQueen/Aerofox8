@@ -3,6 +3,7 @@
 </p>
 
 ---
+# ⚠⚠‼‼ AEROFOX 8 HAS BEEN DISCONTINUED. PLEASE USE [RINFOX](https://github.com/travy-patty/rinfox/) INSTEAD. ‼‼⚠⚠
 Aerofox8 is a modified version of [Aerofox](https://github.com/NWinXP/Aerofox) that tries to replicate the Internet Explorer 8 look and feel as close as possible.
 
 Made in mind for 109.0.
